@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Rex Bold
+font link: https://www.fontsquirrel.com/license/rex
+font author: Fontfabric
+font author site: http://www.fontfabric.com/
+
+
+icon designer: Turkkub
+icon designer link: /Turkkub
+        
+
+fontColor: {"gradient-0":"#D81159","gradient-1":"#FFBC42"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#D81159","gradient-1":"#FFBC42"}
+
+      
