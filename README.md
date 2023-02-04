@@ -1,5 +1,4 @@
-# logo.beams.energy
-
+# [logo.beams.energy - logo](https://logo.beams.energy/)
 
 ## white
 
